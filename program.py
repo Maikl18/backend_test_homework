@@ -1,3 +1,2 @@
+from audioop import add
 print('Я домашка')
-git commit
-git status
